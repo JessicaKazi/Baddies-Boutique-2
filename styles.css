@@ -487,6 +487,7 @@ hr {
     border: none;
 }
 
+
 /* log in page */
 
 /* sign up page */
@@ -586,6 +587,10 @@ hr {
     .login-link a:hover {
       text-decoration: none;
     }
+
+.signup-box a {
+    color: white;
+}
 
 /* sign up page */
 
